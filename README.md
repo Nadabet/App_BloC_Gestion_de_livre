@@ -57,16 +57,16 @@ Cette séparation améliore la maintenabilité, les tests et la réutilisabilit�
 ![Page d'accueil](screenshot/book_1.png)
 Description : Interface principale de recherche de livres.
 
-![Résultats de recherche](img\screenshot\book_2.png)
+![Résultats de recherche](screenshot/book_2.png)
 Description : Affichage des résultats de recherche avec images et informations de base.
 
 
-![Détails du livre](screenshot\book_3.png)
+![Détails du livre](screenshot/book_3.png)
 Description : Vue détaillée d'un livre avec description complète.
 
-![Page des favoris](screenshot\book_4.png)
-![Page des favoris](img\screenshot\book_5.png)
-![Page des favoris](img\screenshot\book_6.png)
+![Page des favoris](screenshot/book_4.png)
+![Page des favoris](screenshot/book_5.png)
+![Page des favoris](screenshot/book_6.png)
 Description : Liste des livres sauvegardés en favoris
  # 🗂️ Structure du projet
 L’architecture du projet suit une organisation claire, facilitant la lisibilité, la maintenance et l’évolution du code. Voici un aperçu des principaux répertoires et de leur rôle dans l’application :
