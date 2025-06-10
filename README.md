@@ -54,18 +54,16 @@ Business Logic Layer : blocs/cubits pour la gestion des événements et des éta
 Data Layer : accès à l’API Google Books et à la base de données SQLite
 Cette séparation améliore la maintenabilité, les tests et la réutilisabilité du code.
 # Captures d’écran
-Page d'accueil
 ![Page d'accueil](img\screenshot\book_1.png)
 Description : Interface principale de recherche de livres.
-Résultats de recherche
+
 ![Résultats de recherche](img\screenshot\book_2.png)
 Description : Affichage des résultats de recherche avec images et informations de base.
 
-Détails du livre
+
 ![Détails du livre](img\screenshot\book_3.png)
 Description : Vue détaillée d'un livre avec description complète.
 
-Page des favoris
 ![Page des favoris](img\screenshot\book_4.png)
 ![Page des favoris](img\screenshot\book_5.png)
 ![Page des favoris](img\screenshot\book_6.png)
